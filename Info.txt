@@ -6,3 +6,4 @@ JP Morgan Chase
 Archeitect
 Git, Jenkins,Docker, Maven,
 New Devops Course
+4 years experiences
